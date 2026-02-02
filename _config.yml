@@ -23,7 +23,7 @@ repository               : "sjtoussaint/sjtoussaint.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "simon_cropped.jpg"
   name             : "Simon Toussaint"
   pronouns         : # example: "she/her"  
   bio              : "Economist"

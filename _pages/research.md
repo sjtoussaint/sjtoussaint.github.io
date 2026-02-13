@@ -84,7 +84,7 @@ with <a href="https://www.coenteulings.com/"><u>Coen N. Teulings</u></a> • <i>
 with <a href="https://www.rug.nl/staff/amaury.de.vicq/"><u>Amaury de Vicq</u></a>,
 <a href="https://www.maastrichtuniversity.nl/m-moatsos"><u>Michail Moatsos</u></a>, and
 <a href="https://www.linkedin.com/in/tim-van-der-valk-7761475b/?locale=nl_NL"><u>Tim van der Valk</u></a> •
-<i><u>European Economic Review</i></u>, <b>178</b>: 105099  <br>
+<i><u>European Economic Review</u></i>, <b>178</b>: 105099  <br>
 <a href="/assets/papers/tvmt_eer_oa.pdf" target="_blank">online appendix</a> •
 <a href="/assets/papers/tvmt_2022.pdf" target="_blank">longer working‑paper version</a>
 

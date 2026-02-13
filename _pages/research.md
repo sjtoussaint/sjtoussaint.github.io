@@ -17,10 +17,12 @@ h1:first-of-type {
 </style>
 
 #### Working Papers
+<div style="height: 8px;"></div>
+
 <div style="margin-bottom: 20px;">
-  <strong style="font-weight: bold;"> <a href="/assets/papers/tt_pareto.pdf" target="_blank"><u>Top Wealth Is Distributed Weibull, Not Pareto</u></a></strong><br>
+  <strong style="font-weight: bold;"> [2025] <a href="/assets/papers/tt_pareto.pdf" target="_blank"><u>Top Wealth Is Distributed Weibull, Not Pareto</u></a></strong> (<strong style="bold">updated!</strong>)  <br> 
   <span class="adaptive-gray" style="font-size: 0.95em;">
-     [2025] (<strong style="bold">updated!</strong>) | with <a href="https://www.coenteulings.com/"><u>Coen N. Teulings</u></a> | CEPR Discussion Paper DP18364
+     with <a href="https://www.coenteulings.com/"><u>Coen N. Teulings</u></a> | CEPR Discussion Paper DP18364
   <details style="margin-top: 4px;">
     <summary class="adaptive-blue" style="cursor: pointer; font-size: 0.95em;">
       Abstract
@@ -33,9 +35,8 @@ We study the shape of the global top wealth distribution, using the _Forbes List
 
 
 <div style="margin-bottom: 20px;">
-  <strong style="font-weight: bold;"> <a href="/assets/papers/t_jmp.pdf" target="_blank"><u>Robust Estimation of Private Business Wealth</u></a></strong><br>
+  <strong style="font-weight: bold;">  [2024] <a href="/assets/papers/t_jmp.pdf" target="_blank"><u>Robust Estimation of Private Business Wealth</u></a></strong><br>
   <span class="adaptive-gray" style="font-size: 0.95em;">
-     [2024]
   <details style="margin-top: 4px;">
     <summary class="adaptive-blue" style="cursor: pointer; font-size: 0.95em;">
       Abstract
@@ -55,9 +56,9 @@ with models of return heterogeneity.
 </div>
 
 <div style="margin-bottom: 20px;">
-  <strong style="font-weight: bold;"> <a href="/assets/papers/DP_19191.pdf" target="_blank"><u>Why Has the Number of Billionaires Increased So Much?</u></a></strong><br>
+  <strong style="font-weight: bold;"> [2024] <a href="/assets/papers/DP_19191.pdf" target="_blank"><u>Why Has the Number of Billionaires Increased So Much?</u></a></strong><br>
   <span class="adaptive-gray" style="font-size: 0.95em;">
-     [2024] | with <a href="https://www.coenteulings.com/"><u>Coen N. Teulings</u></a> | CEPR Discussion Paper DP19191
+    with <a href="https://www.coenteulings.com/"><u>Coen N. Teulings</u></a> | CEPR Discussion Paper DP19191
   <details style="margin-top: 4px;">
     <summary class="adaptive-blue" style="cursor: pointer; font-size: 0.95em;">
       Abstract
@@ -78,12 +79,14 @@ context of models where market size shapes firm (and hence wealth) concentration
   </details>
 </div>
 
+<div style="height: 18px;"></div>
 #### Publications
+<div style="height: 8px;"></div>
 
 <div style="margin-bottom: 20px;">
-  <strong style="font-weight: bold;"> <a href="/assets/papers/tvmt_eer.pdf" target="_blank"><u>Wealth-Income Ratios in a Small, Open Economy: The Netherlands, 1854--2019</u></a></strong><br>
+  <strong style="font-weight: bold;">  [2025] <a href="/assets/papers/tvmt_eer.pdf" target="_blank"><u>Wealth-Income Ratios in a Small, Open Economy: The Netherlands, 1854--2019</u></a></strong><br>
   <span class="adaptive-gray" style="font-size: 0.95em;">
-     [2025] | with <a href="https://www.rug.nl/staff/amaury.de.vicq/"><u>Amaury de Vicq</u></a>, <a href="https://www.maastrichtuniversity.nl/m-moatsos"><u>Michail Moatsos</u></a>, and <a href="https://www.linkedin.com/in/tim-van-der-valk-7761475b/?locale=nl_NL"><u>Tim van der Valk</u></a>  | European Economic Review, 178: 105099 | <a href="/assets/papers/tvmt_eer_oa.pdf" target="_blank"><u>online appendix</u></a> | <a href="/assets/papers/tvmt_2022.pdf" target="_blank"><u>longer working paper version</u></a>
+    with <a href="https://www.rug.nl/staff/amaury.de.vicq/"><u>Amaury de Vicq</u></a>, <a href="https://www.maastrichtuniversity.nl/m-moatsos"><u>Michail Moatsos</u></a>, and <a href="https://www.linkedin.com/in/tim-van-der-valk-7761475b/?locale=nl_NL"><u>Tim van der Valk</u></a>  | European Economic Review, 178: 105099 | <a href="/assets/papers/tvmt_eer_oa.pdf" target="_blank"><u>online appendix</u></a> | <a href="/assets/papers/tvmt_2022.pdf" target="_blank"><u>longer working paper version</u></a>
   <details style="margin-top: 4px;">
     <summary class="adaptive-blue" style="cursor: pointer; font-size: 0.95em;">
       Abstract
@@ -103,12 +106,14 @@ in net wealth accumulation due to significant mortgage debt.
   </details>
 </div>
 
+<div style="height: 18px;"></div>
 #### Non-Refereed Publications
+<div style="height: 8px;"></div>
 
 <div style="margin-bottom: 20px;">
-  <strong style="font-weight: bold;"> <a href="/assets/papers/smt_2023.pdf" target="_blank"><u>Wealth Inequality in the Netherlands</u></a></strong><br>
+  <strong style="font-weight: bold;"> [2023]  <a href="/assets/papers/smt_2023.pdf" target="_blank"><u>Wealth Inequality in the Netherlands</u></a></strong><br>
   <span class="adaptive-gray" style="font-size: 0.95em;">
-     [2023] | with <a href="https://sites.google.com/view/alicesodano/home"><u>Alice Sodano</u></a>, and <a href="https://sites.google.com/view/claramartinez-toledanotoledano/home"><u>Clara Martínez-Toledano</u></a> | WID.world Technical Note 2023/13
+     with <a href="https://sites.google.com/view/alicesodano/home"><u>Alice Sodano</u></a>, and <a href="https://sites.google.com/view/claramartinez-toledanotoledano/home"><u>Clara Martínez-Toledano</u></a> | WID.world Technical Note 2023/13
   <details style="margin-top: 4px;">
     <summary class="adaptive-blue" style="cursor: pointer; font-size: 0.95em;">
       Abstract

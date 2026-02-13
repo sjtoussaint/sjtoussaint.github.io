@@ -9,4 +9,8 @@ nav_order: 2
 
 #### Working Papers
 
-[2025] (updated!)    [Top Wealth Is Distributed Weibull, Not Pareto](assets/papers/tt_pareto.pdf)
+[2025] (updated!)    [Top Wealth Is Distributed Weibull, Not Pareto](/assets/papers/tt_pareto.pdf)
+                    with Coen Teulings.
+                    CEPR Discussion Paper DP18364.
+
+[2024]              [Robust Estimation of Private Business Wealth](/assets/papers/t_jmp.pdf)

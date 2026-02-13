@@ -21,7 +21,7 @@ h1:first-of-type {
 }
 </style>
 
-## Working Papers
+### Working Papers
 <div class="section">
 
 [2025] <strong><a href="/assets/papers/tt_pareto.pdf" target="_blank"><u>Top Wealth Is Distributed Weibull, Not Pareto</u></a></strong> <strong>(updated!)</strong> <br>
@@ -59,7 +59,7 @@ with <a href="https://www.coenteulings.com/"><u>Coen N. Teulings</u></a> • <i>
 </div>
 
 <div class="section">
-[2024] <strong><a href="/assets/papers/DP_19191.pdf" target="_blank"><u>Why Has the Number of Billionaires Increased So Much?</u></a></strong><br> 
+[2024] <strong><a href="/assets/papers/DP19191.pdf" target="_blank"><u>Why Has the Number of Billionaires Increased So Much?</u></a></strong><br> 
 with <a href="https://www.coenteulings.com/"><u>Coen N. Teulings</u></a> • <i>CEPR Discussion Paper</i> DP19191  
 
 <details>
@@ -77,7 +77,7 @@ with <a href="https://www.coenteulings.com/"><u>Coen N. Teulings</u></a> • <i>
 </details>
 </div>
 
-## Publications
+### Publications
 <div class="section">
 
 [2025] <strong><a href="/assets/papers/tvmt_eer.pdf" target="_blank"><u>Wealth‑Income Ratios in a Small, Open Economy: The Netherlands, 1854‑2019</u></a></strong><br> 
@@ -104,7 +104,7 @@ with <a href="https://www.rug.nl/staff/amaury.de.vicq/"><u>Amaury de Vicq</u></a
 
 </div>
 
-## Non‑Refereed Publications
+### Non‑Refereed Publications
 <div class="section">
 
 [2023] <strong><a href="/assets/papers/smt_2023.pdf" target="_blank"><u>Wealth Inequality in the Netherlands</u></a></strong><br> 

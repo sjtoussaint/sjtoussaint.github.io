@@ -8,6 +8,20 @@ nav_order: 6
 calendar: true
 ---
 
+<style>
+/* Hide the page title */
+.page-header h1:first-child,
+.post-header h1:first-child,
+h1:first-of-type {
+  display: none;
+}
+
+/* Consistent spacing for each section */
+.section {
+  margin-bottom: 30px;
+}
+</style>
+
 ### Leiden University
 
 In 2025/26, I am teaching (and/or coordinating) the following courses:

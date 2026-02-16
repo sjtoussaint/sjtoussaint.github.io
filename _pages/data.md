@@ -24,4 +24,4 @@ Toussaint, Simon J., de Vicq, Amaury, Moatsos, Michail, and van der Valk, Tim. 2
 
 For information about the underlying data sources and methodology, please read [the paper](/assets/papers/tvmt_eer.pdf) and its [online appendix](/assets/papers/tvmt_eer_oa.pdf).
 
-<a href="/assets/data/WEALTHNLD.xlsx" class="button button_block">Click here to download the data</a>
+[Click here to download the data](/assets/data/WEALTHNLD.xlsx){: .btn}

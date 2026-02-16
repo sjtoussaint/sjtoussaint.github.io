@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/
-title: Research
+permalink: /data/
+title: Data
 description: 
 nav: true
 nav_order: 3

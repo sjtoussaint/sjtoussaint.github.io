@@ -28,5 +28,5 @@ Welcome to my website! I obtained my PhD in economics in 2025 at the Utrecht Uni
 
 I study the dynamics of wealth concentration. My main research fields are Macroeconomics and Finance; I also have interests in Public Finance and Economic History. I am a fellow of the [World Inequality Database](https://wid.world/).
 
-You can find my CV [here](/assets/pdf/cv_toussaint.pdf).\
+You can find my CV <a href="/assets/pdf/cv_toussaint.pdf" target="_blank"><u>here</u></a>.\
 You can contact me at [s.j.toussaint@law.leidenuniv.nl](mailto:s.j.toussaint@law.leidenuniv.nl).

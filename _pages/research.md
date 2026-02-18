@@ -25,7 +25,7 @@ h1:first-of-type {
 <div class="section">
 
 [2025] <strong><a href="/assets/papers/tt_pareto.pdf" target="_blank"><u>Top Wealth Is Distributed Weibull, Not Pareto</u></a></strong> <strong>(updated!)</strong> <br>
-with <a href="https://www.coenteulings.com/"><u>Coen N. Teulings</u></a> • <i>CEPR Discussion Paper</i> DP18364  
+with <a href="https://www.coenteulings.com/">Coen N. Teulings</a> • <i>CEPR Discussion Paper</i> DP18364  
 
 <details>
   <summary style="cursor:pointer;"><strong>Abstract</strong></summary>
@@ -60,7 +60,7 @@ with <a href="https://www.coenteulings.com/"><u>Coen N. Teulings</u></a> • <i>
 
 <div class="section">
 [2024] <strong><a href="/assets/papers/DP19191.pdf" target="_blank"><u>Why Has the Number of Billionaires Increased So Much?</u></a></strong><br> 
-with <a href="https://www.coenteulings.com/"><u>Coen N. Teulings</u></a> • <i>CEPR Discussion Paper</i> DP19191  
+with <a href="https://www.coenteulings.com/">Coen N. Teulings</a> • <i>CEPR Discussion Paper</i> DP19191  
 
 <details>
   <summary style="cursor:pointer;"><strong>Abstract</strong></summary>
@@ -81,9 +81,9 @@ with <a href="https://www.coenteulings.com/"><u>Coen N. Teulings</u></a> • <i>
 <div class="section">
 
 [2025] <strong><a href="/assets/papers/tvmt_eer.pdf" target="_blank"><u>Wealth‑Income Ratios in a Small, Open Economy: The Netherlands, 1854‑2019</u></a></strong><br> 
-with <a href="https://www.rug.nl/staff/amaury.de.vicq/"><u>Amaury de Vicq</u></a>,
-<a href="https://www.maastrichtuniversity.nl/m-moatsos"><u>Michail Moatsos</u></a>, and
-<a href="https://www.linkedin.com/in/tim-van-der-valk-7761475b/?locale=nl_NL"><u>Tim van der Valk</u></a> •
+with <a href="https://www.rug.nl/staff/amaury.de.vicq/">Amaury de Vicq</a>,
+<a href="https://www.maastrichtuniversity.nl/m-moatsos">Michail Moatsos</a>, and
+<a href="https://www.linkedin.com/in/tim-van-der-valk-7761475b/?locale=nl_NL">Tim van der Valk</a> •
 <i><u>European Economic Review</u></i>, <b>178</b>: 105099  <br>
 <a href="/assets/papers/tvmt_eer_oa.pdf" target="_blank">online appendix</a> •
 <a href="/assets/papers/tvmt_2022.pdf" target="_blank">longer working‑paper version</a>
@@ -108,8 +108,8 @@ with <a href="https://www.rug.nl/staff/amaury.de.vicq/"><u>Amaury de Vicq</u></a
 <div class="section">
 
 [2023] <strong><a href="/assets/papers/smt_2023.pdf" target="_blank"><u>Wealth Inequality in the Netherlands</u></a></strong><br> 
-with <a href="https://sites.google.com/view/alicesodano/home"><u>Alice Sodano</u></a> and
-<a href="https://sites.google.com/view/claramartinez-toledanotoledano/home"><u>Clara Martínez‑Toledano</u></a> •
+with <a href="https://sites.google.com/view/alicesodano/home">Alice Sodano</a> and
+<a href="https://sites.google.com/view/claramartinez-toledanotoledano/home">Clara Martínez‑Toledano</a> •
 <i>WID.world Technical Note</i> 2023/13
 
 <details>

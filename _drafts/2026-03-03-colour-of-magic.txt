@@ -1,0 +1,22 @@
+---
+
+layout: post
+title: The Colour of Magic: Monetary Neutrality and Moral Hazard
+date: 2026-03-03 17:03
+description: In which I kick off a review of economics in Discworld
+tags: fantasy-economics discworld
+categories: fantasy-economics discworld
+featured: true
+toc:
+  beginning: true
+---
+
+## The Economics of Discworld
+
+> Twoflower grinned. 'Magic is one thing, and <i>reflected-sound-of-underground-spirits</i>[^1] is another,' he said.
+
+
+
+## Notes
+
+[^1]: In other words, <i>echo-gnomics</i>.
